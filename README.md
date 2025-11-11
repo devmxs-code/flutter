@@ -1,4 +1,4 @@
-# Projetos Flutter Test
+# Projetos Flutter
 
 Este repositório contém uma coleção de aplicações Flutter e projetos de aprendizado demonstrando vários conceitos e funcionalidades do Flutter.
 
